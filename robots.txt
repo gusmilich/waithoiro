@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zoghituch.openviszla.com/sitemap.xml
